@@ -1,0 +1,16 @@
+1) Step one create a folder with name as 
+2) go to folder and right click -> click git bash here
+3) auto opens gits bash cmd line.
+4) echo "# project_name" >> README.md
+5) git init
+6) git add README.md
+7) git commit -m "first commit"
+8) git remote add origin https://github.com/tadkapallid/varunjeeri.git
+9) git push -u origin master
+10) open project in VSCODE edit any file from folder  and in go to git button left side
+11) stage -> commit and push
+============ Publishing via github pages ===============
+1) go to github project settings
+    https://github.com/tadkapallid/varunjeeri/settings
+2) under github pages select source as master.
+3) after save url will be displayed under github pages
